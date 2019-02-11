@@ -1,4 +1,9 @@
 scriptfiles/ARHSystem/players/
+scriptfiles/data/accounts/
+scriptfiles/ZASystem/Users/
+scriptfiles/Gangs/Players/
+scriptfiles/ladmin/users/
+scriptfiles/Players/
 *.exe
 *.txt
 *.amx
